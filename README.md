@@ -104,7 +104,7 @@ Netflix-Data-Analysis/
 ├── netflix_analysis.py
 ├── netflix_titles.csv
 ├── README.md
-└── screenshots/
+  └── screenshots/
 ```
 
 ---
