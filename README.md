@@ -92,7 +92,6 @@ Drama and International categories appear frequently, showing Netflix’s focus 
 |---|---|
 | Bar Chart | Compare categories easily |
 | Pie Chart | Show percentage distribution |
-| Line Graph | Understand trends over time |
 | Horizontal Bar Chart | Improve readability for long labels |
 
 ---
