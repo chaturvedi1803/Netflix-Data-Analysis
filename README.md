@@ -133,16 +133,17 @@ python netflix_analysis.py
 ---
 
 ## Screenshots
+<img width="1200" height="633" alt="Python 3 11 22-05-2026 00_15_43" src="https://github.com/user-attachments/assets/aae27d3f-1450-4e62-9e15-95fe17486a3b" />
 
-Add your graph screenshots inside the `screenshots` folder.
+<img width="800" height="607" alt="Python 3 11 22-05-2026 00_15_52" src="https://github.com/user-attachments/assets/a80d70b3-fa1c-4ad1-b785-9cf75e6049de" />
 
-Example:
+<img width="800" height="642" alt="Python 3 11 22-05-2026 00_16_02" src="https://github.com/user-attachments/assets/cb224533-bc41-4678-814d-beacf04e5dc4" />
 
-```md
-![Graph](screenshots/graph1.png)
-```
+<img width="1200" height="542" alt="Python 3 11 22-05-2026 00_16_14" src="https://github.com/user-attachments/assets/a4e5907b-f9de-4794-b040-dc0d95a0445a" />
 
----
+
+
+
 
 ## Skills Learned
 
