@@ -157,16 +157,20 @@ python netflix_analysis.py
 ## Screenshots
 
 ### Movies vs TV Shows Distribution
-(Add Screenshot Here)
+<img width="600" height="442" alt="Python 3 11 23-05-2026 21_59_35" src="https://github.com/user-attachments/assets/a2614c4f-a2af-446f-a699-04a4d8317292" />
+
 
 ### Ratings Distribution
-(Add Screenshot Here)
+<img width="1200" height="633" alt="Python 3 11 22-05-2026 00_15_43" src="https://github.com/user-attachments/assets/7219739a-4999-4d1a-9c4a-d185eb4b8405" />
+
 
 ### Release Year Trends
-(Add Screenshot Here)
+<img width="1000" height="642" alt="Python 3 11 23-05-2026 22_00_17" src="https://github.com/user-attachments/assets/58e286b5-e3dc-435a-a023-edecab95040d" />
+
 
 ### Top Countries by Number of Shows
-(Add Screenshot Here)
+<img width="800" height="642" alt="Python 3 11 22-05-2026 00_16_02" src="https://github.com/user-attachments/assets/058f1aee-3bae-4a49-8daf-29f20ecfa7c9" />
+
 
 ---
 
